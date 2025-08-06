@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Saman Tayyab
 
-<!--
-**Samantayyab/Samantayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Pharmacist pivoting into tech with a strong passion for Python, NLP, and digital innovation.
 
-Here are some ideas to get you started:
+💻 Currently building pharmacy-related Python projects and NLP coaching content to empower others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Python through structured online courses, building hands-on pharmacy-related projects and exploring GUI, automation & API integrations.
+
+🧠 ABNLP certified NLP Coach,guiding people reprogram their mind for better performance.
+
+📦 38+ repositories including:
+- Pharmacy mini-apps (Inventory, Reminder, Helper)
+- Error-handling tools
+- Logic-based games
+- Built-in module experiments
+
+📌 Latest projects:
+- [Pharmacy Stock Manager](https://github.com/YOUR-USERNAME/pharmacy_stock_manager)
+- [Age Input with Error Handling](https://github.com/YOUR-USERNAME/age_input_error_handling)
+- [Simple Calculator](https://github.com/YOUR-USERNAME/simple_calculator)
+
+🔗 Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- [Instagram (NLP Page)](https://www.instagram.com/YOUR-INSTAGRAM)
+
+✨ Open to *remote roles*, collaborations, and freelancing in Python + NLP fields.
+
+---
+"Consistency is the key. I'm building in silence, but aiming loud." 🚀
+Sent 1m ago
+Write to
