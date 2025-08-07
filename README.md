@@ -12,20 +12,22 @@ Hi, I'm Saman Tayyab
 - Pharmacy mini-apps (Inventory, Reminder, Helper)
 - Error-handling tools
 - Logic-based games
-- Built-in module experiments
+- Built-in module experiments and so on.
 
 📌 Latest projects:
-- [Pharmacy Stock Manager](https://github.com/YOUR-USERNAME/pharmacy_stock_manager)
-- [Age Input with Error Handling](https://github.com/YOUR-USERNAME/age_input_error_handling)
-- [Simple Calculator](https://github.com/YOUR-USERNAME/simple_calculator)
+- [Pharmacy Stock Manager] https://github.com/Samantayyab/Pharmacy-stock-manager
+- [Age Input with Error Handling] https://github.com/Samantayyab/Age-Input-with-Error-Handling
+- [Email & File Automation] https://github.com/Samantayyab/Email-and-File-Automation-Script
+  & many more...
 
 🔗 Let’s connect:
+https://taplink.cc/samantayyab
 - [LinkedIn] https://www.linkedin.com/in/saman-tayyab-abb485155?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- [Instagram (NLP Page)](https://www.instagram.com/YOUR-INSTAGRAM)
+- [Instagram] https://www.instagram.com/thrivethread_?igsh=MTljenR4ZGZsbnd3MQ==
+- [X] https://x.com/saman_tayyab?t=9sLDS-JqJcK11HBJZj8CGQ&s=09
+- [Facebook]  https://www.facebook.com/share/19KBLYTtTA/
 
 ✨ Open to *remote roles*, collaborations, and freelancing in Python + NLP fields.
 
 ---
-"Consistency is the key. I'm building in silence, but aiming loud." 🚀
-Sent 1m ago
-Write to
+"Consistency is the key. I'm building in silence, but aiming loud,Insha'Allah" 🚀
