@@ -20,7 +20,7 @@ Hi, I'm Saman Tayyab
 - [Simple Calculator](https://github.com/YOUR-USERNAME/simple_calculator)
 
 🔗 Let’s connect:
-- [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
+- [LinkedIn] https://www.linkedin.com/in/saman-tayyab-abb485155?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - [Instagram (NLP Page)](https://www.instagram.com/YOUR-INSTAGRAM)
 
 ✨ Open to *remote roles*, collaborations, and freelancing in Python + NLP fields.
