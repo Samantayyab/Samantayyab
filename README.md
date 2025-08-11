@@ -22,7 +22,7 @@ Hi, I'm Saman Tayyab
 
 🔗 Let’s connect:
 https://taplink.cc/samantayyab
-- [LinkedIn] https://www.linkedin.com/in/saman-tayyab-abb485155?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- [LinkedIn] https://www.instagram.com/coach_samantayyab?igsh=MWpqNGR0bjE5OTBvdA==
 - [Instagram] https://www.instagram.com/thrivethread_?igsh=MTljenR4ZGZsbnd3MQ==
 - [X] https://x.com/saman_tayyab?t=9sLDS-JqJcK11HBJZj8CGQ&s=09
 - [Facebook]  https://www.facebook.com/share/19KBLYTtTA/
